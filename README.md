@@ -19,7 +19,8 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 <blockquote>O comando seria ‘git init’</blockquote>
 
 **6. O que é o HTTP?**
-
+<blockquote>Significa HyperText  Transfer Protocol, é um protocolo que define a forma de comunicação entre o navegador e o servidor, se baseia no modelo computacional de Cliente-Servidor</blockquote>
+  
 **7. Como funciona o HTTP?**
 
 **8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?**
