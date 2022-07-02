@@ -6,7 +6,9 @@
 **1. Para que serve o método Scrum?**
 
 **2. Como funciona o método Scrum?**
-<details><blockquote>
+<details>
+  <summary>Ver resposta</summary>
+  <blockquote>
 O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele seja realizado, é necessário uma equipe em que cada um assumirá um papel igualmente importante para o andamento do projeto, sendo os papeis: O Product Owner, Scrum Master e Time de Desenvolvimento. Com uma equipe bem definida ocorre o planejamento da Sprint, incluindo o seu tempo de duração (Que pode variar entre 2 até 4 semanas por Sprint), e é definida a prioridade e a divisão das tarefas, ou seja, o Sprint Backlog (Tendo como base o Product Backlog). A Sprint é o período onde o time de desenvolvimento trabalha para cumprir as tarefas designadas durante o Planning. Diariamente ocorre a Daily Scrum, uma reunião de 15 mins de duração que tem como propósito a melhoria contínua do time, repassando o andamento da tarefa, o planejamento pro próximo dia de trabalho e os impedimentos (se houverem) que estejam retardando o andamento da tarefa. Ao final da Sprint é realizada a Sprint Review, reunião esta que tem uma duração em média de 1h por semana de Sprint, nesta review há a presença de toda a equipe e do cliente e é apresentado os resultados da Sprint, das tarefas realizadas e, se os critérios foram atingidos, nesta reunião busca-se o feedback do Cliente e de preferência do usuário final também, por isso é interessante a presença deste na reunião. E por fim, ocorre o último item do ciclo, a Sprint Retrospective, que tem basicamente o objetivo de reunir a equipe para conversar sobre o quê ocorreu bem na Sprint anterior e o quê pode ser melhorado para a próxima Sprint, seguindo o fundamento de Melhoria Contínua do Scrum. Com isso, o ciclo se reinicia afim de planejar os objetivos da próxima Sprint.</blockquote> </details>
 
 **3. O que é Git?**
@@ -38,6 +40,7 @@ Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome
 **11. Qual a diferença entre git e github?**
 
 **12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.**
+<blockquote>São os verbos Put e Patch, basicamente a diferença entre eles seria: O Put é utilizado quando se quer realizar um update integral, nesse situação todos os dados do recursos são substituídos pelos novos dados que estamos passando. O Patch por sua vez também realiza um update, mas é utilizado quando se quer executar um update parcial, com esse verbo é possível modificar uma única parte do recurso. </blockquote>
 
 **13. Qual o status code que pode ser usado na criação de um novo usuário?**
 
