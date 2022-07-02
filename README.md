@@ -27,7 +27,8 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 **8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?**
 <blockquote>git add ‘file’ (File sendo o nome do arquivo alterado)</blockquote>
 
-**9. O que é a Branch master e para que serve?** 
+**9. O que é a Branch master e para que serve?**
+<blockquote>A Branch Master seria a branch padrão do repositório, nela em que todas as outras branches secundárias serão eventualmente incorporadas (através do merge), então pode-se dizer que ela seria a versão oficial do projeto</blockquote>
 
 **10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?**
 
