@@ -13,6 +13,7 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 <blockquote>Git é um Sistema de Controle de Versões, ele é utilizado para controlar o histórico (ou log) de modificações de arquivos e projetos. Esse controle de versões permite a transição entre diferentes fases do projeto, com o benefício de localizar erros e comparar versões. Seu controle de histórico também permite com que equipes trabalhem dentro do mesmo projeto de forma muito mais eficiente e segura.</blockquote>
 
 **4. O que é um scrum Product Owner?**
+<blockquote>O Product Owner é um dos três papeis do Scrum, basicamente ele é o dono do Produto, responsável por maximizar o valor do produto resultado pelo trabalho do time de Scrum, realiza essa função através do gerenciamento do Product Backlog, tanto definindo a prioridade das tarefas listadas nesse backlog para as Sprint Planning, quanto refinando essa lista ao longo das futuras Sprints.</blockquote>
 
 **5. Qual o comando para criação de um novo repositório no Git?** 
 
