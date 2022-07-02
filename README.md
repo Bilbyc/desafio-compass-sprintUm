@@ -31,6 +31,9 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 <blockquote>A Branch Master seria a branch padrão do repositório, nela em que todas as outras branches secundárias serão eventualmente incorporadas (através do merge), então pode-se dizer que ela seria a versão oficial do projeto</blockquote>
 
 **10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?**
+<blockquote>Utilizamos o git pull para atualizar o repositório local em relação as branchs remotas, num exemplo onde a branch principal teria o nome de main e a remote de Origin, o comando ficaria: git pull origin main
+
+Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome da branch a ser realizado o merge à branch ativa’. Caso a branch ativa não seja a correta, podemos utilizar o git checkout para navegar para diferentes branches</blockquote>
 
 **11. Qual a diferença entre git e github?**
 
