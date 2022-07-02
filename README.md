@@ -22,6 +22,7 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 <blockquote>Significa HyperText  Transfer Protocol, é um protocolo que define a forma de comunicação entre o navegador e o servidor, se baseia no modelo computacional de Cliente-Servidor</blockquote>
   
 **7. Como funciona o HTTP?**
+<blockquote>Utilizando-se do modelo computacional Cliente-Servidor, onde o cliente (Normalmente através do navegador) faz um request e aguarda uma response por parte do Servidor, uma característica deste modelo computacional é que essa comunicação sempre será iniciada pelo cliente. Estes requests são enviadas, localizadas na rede através de URIs/URLs, processadas e retornadas ao usuário (response)</blockquote>
 
 **8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?**
 
