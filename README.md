@@ -16,6 +16,7 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 <blockquote>O Product Owner é um dos três papeis do Scrum, basicamente ele é o dono do Produto, responsável por maximizar o valor do produto resultado pelo trabalho do time de Scrum, realiza essa função através do gerenciamento do Product Backlog, tanto definindo a prioridade das tarefas listadas nesse backlog para as Sprint Planning, quanto refinando essa lista ao longo das futuras Sprints.</blockquote>
 
 **5. Qual o comando para criação de um novo repositório no Git?** 
+<blockquote>O comando seria ‘git init’</blockquote>
 
 **6. O que é o HTTP?**
 
