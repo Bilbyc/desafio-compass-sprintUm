@@ -49,5 +49,19 @@ Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome
 <blockquote>Em caso de um delete bem sucedido, os Status code que podem ser utilizados seriam: o 200, que seria o mais comum como resposta a um request aceito e em processamento. O 202, que significa que o request foi recebido e aceito para ser processado, mas talvez não imediatamente e o terceiro seria o 204, semelhante aos outros dois, a diferença que é ele avisa não haver necessidade de enviar algum dado como retorno</blockquote>
 
 **15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!**
+<details>
+  <summary>Ver resposta</summary>
+  <blockquote>
+Embora existe dezenas de variações, o primeiro número da resposta já é o bastante pra identificar o resultado da request realizada, basicamente cada um serve para:
+
+<br>1xx: Esse é usado apenas como uma resposta temporária, indica que o servidor recebeu a request e o 1xx irá aparecer enquanto o processamento da request continua, não serve como resposta final.
+
+2xx : Para indicar que o request foi bem sucedido
+
+3xx: Para indicar que houve redirecionamento, normalmente ocorre o redirecionamento para uma nova URL/URI ao acessar o endereço antigo
+
+4xx: Para indicar que ocorreu um erro do lado do Cliente, exemplo quando há erro de sintaxe ou quando se tentar acessar um recurso que não se tenha permissão 
+
+5xx: Ocorre para indicar um erro do lado do Servidor, normalmente indica também que o Servidor está ciente do erro de sua parte ou indicar que é incapaz de processar o request em questão.</blockquote></details>
 
 **16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:** 
