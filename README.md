@@ -43,6 +43,7 @@ Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome
 <blockquote>São os verbos Put e Patch, basicamente a diferença entre eles seria: O Put é utilizado quando se quer realizar um update integral, nesse situação todos os dados do recursos são substituídos pelos novos dados que estamos passando. O Patch por sua vez também realiza um update, mas é utilizado quando se quer executar um update parcial, com esse verbo é possível modificar uma única parte do recurso. </blockquote>
 
 **13. Qual o status code que pode ser usado na criação de um novo usuário?**
+<blockquote>O status code que melhor se adequa na criação de usuários seria o 201, por definição ele significa que a request foi bem sucedida e como resultado, um novo recurso foi criado</blockquote>
 
 **14. Quais são os três status code que modem ser utilizados para realizar o delete?**
 
