@@ -4,6 +4,7 @@
 <p align="justify"> Referente à perguntas do 1º Desafio do Programa de Bolsas Compass </p><br>
 
 **1. Para que serve o método Scrum?**
+<blockquote>O Scrum é um framework utilizado no gerenciamento de projetos, tem o intuito de aplicar o método de gerenciamento ágil ao desenvolvimento das tarefas, porém de forma mais adaptável às necessidades do time e do projeto, essa possibilidade de adaptação o diferencia de outras metodologias, que em sua maioria são muito mais rígidas em sua estrutura e forma de funcionar, e destaca a razão do Scrum ser um framework. </blockquote>
 
 **2. Como funciona o método Scrum?**
 <details>
