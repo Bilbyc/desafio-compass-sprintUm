@@ -65,3 +65,9 @@ Embora existe dezenas de variações, o primeiro número da resposta já é o ba
 5xx: Ocorre para indicar um erro do lado do Servidor, normalmente indica também que o Servidor está ciente do erro de sua parte ou indicar que é incapaz de processar o request em questão.</blockquote></details>
 
 **16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:** 
+<details>
+  <summary>Ver resposta</summary>
+  <blockquote>
+    A experiência durante a primeira Sprint foi totalmente positiva, estudar de forma aplicada a uma rotina de trabalho real através do Scrum tornou o aprendizado mais dinâmico e a daily scrum atua como um impulso a mais, motivando a sempre progredir todos os dias pra ter um feedback positivo para apresentar na reunião diária. Além disso é muito proveitoso poder tirar dúvidas com os instrutores que não sejam só técnicas, mas também relacionadas ao dia a dia e aos problemas diários trabalhando como desenvolvedor, algo que normalmente não é compartilhado nos cursos. Junto a isso, trabalhar com outras pessoas como eu, fora do meio acadêmico e compartilhar conhecimento entre si tornou a adaptação ao programa muito simples. 
+
+  <br>Como expectativas a partir de agora, espero estar preparado para o aumento do nível do conteúdo e que as dinâmicas como os Workshops e tarefas em grupo continuem ocorrendo, tanto as de interação, exemplo a de criação da logo, como tarefas voltadas ao conteúdo dos módulos futuros. Espero absorver o máximo possível do que for repassado, me capacitar e que a experiência continue sendo tão empolgante quanto foi durante a primeira Sprint, mas a principal expectativa é que esse programa seja um ponto de partida de carreira e que vá muito além desses 3 futuros meses.</blockquote></details>
