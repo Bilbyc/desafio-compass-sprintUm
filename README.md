@@ -46,6 +46,7 @@ Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome
 <blockquote>O status code que melhor se adequa na criação de usuários seria o 201, por definição ele significa que a request foi bem sucedida e como resultado, um novo recurso foi criado</blockquote>
 
 **14. Quais são os três status code que modem ser utilizados para realizar o delete?**
+<blockquote>Em caso de um delete bem sucedido, os Status code que podem ser utilizados seriam: o 200, que seria o mais comum como resposta a um request aceito e em processamento. O 202, que significa que o request foi recebido e aceito para ser processado, mas talvez não imediatamente e o terceiro seria o 204, semelhante aos outros dois, a diferença que é ele avisa não haver necessidade de enviar algum dado como retorno</blockquote>
 
 **15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!**
 
