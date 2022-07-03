@@ -1,7 +1,7 @@
 # 1º DESAFIO - Compass
 
 ## Descrição do Projeto
-<p align="justify"> Referente à perguntas do 1º Desafio do Programa de Bolsas Compass </p><br>
+<p align="justify"> Referente às perguntas do 1º Desafio do Programa de Bolsas Compass </p><br>
 
 **1. Para que serve o método Scrum?**
 <blockquote>O Scrum é um framework utilizado no gerenciamento de projetos, tem o intuito de aplicar o método de gerenciamento ágil ao desenvolvimento das tarefas, porém de forma mais adaptável às necessidades do time e do projeto, essa possibilidade de adaptação o diferencia de outras metodologias, que em sua maioria são muito mais rígidas em sua estrutura e forma de funcionar, e destaca a razão do Scrum ser um framework. </blockquote>
@@ -39,6 +39,7 @@ O Scrum necessita de sua base estrutural para seu funcionamento. Para que ele se
 Para fazer merge de outro branch ao branch ativo utilizados o: git merge ‘nome da branch a ser realizado o merge à branch ativa’. Caso a branch ativa não seja a correta, podemos utilizar o git checkout para navegar para diferentes branches</blockquote>
 
 **11. Qual a diferença entre git e github?**
+<blockquote>Enquanto o Git é um sistema de controle de versões e gerenciamento de projetos, o Github é como uma plataforma onde qualquer um pode disponibilizar esses projetos/repositórios para o mundo, inclusive tornando possível que pessoas do mundo todo trabalhem no mesmo projeto de forma comunitária, como uma rede social com foco na programação.  O github também trás alguma opções interessantes para o gerenciamento de projetos, principalmente quando trabalhados em equipe. Outro ponto a se destacar é que o Git é um software independente, enquanto o Github é uma plataforma que trabalha com base no Git.</blockquote>
 
 **12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.**
 <blockquote>São os verbos Put e Patch, basicamente a diferença entre eles seria: O Put é utilizado quando se quer realizar um update integral, nesse situação todos os dados do recursos são substituídos pelos novos dados que estamos passando. O Patch por sua vez também realiza um update, mas é utilizado quando se quer executar um update parcial, com esse verbo é possível modificar uma única parte do recurso. </blockquote>
